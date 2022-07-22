@@ -1,0 +1,8 @@
+¿Qué solución preenta el código?
+Resuelve operaciones básicas de suma, resta, multiplicación y división de números enteros, seleccionando opreviamente la operación a realizar.
+
+¿Cómo comprobaron que no había errores de sintaxis?
+Revisando que el código estuviera bien escrito acorde al lenguaje de programación y que permitiera su compilación y ejecución.
+
+¿Cómo comoprobaron que no había errores semánticos?
+Al verificar que lo escrito fuera válido, aún si está bien escrito, como es el caso de la división entre 0 que podía suceder en uno de los casos planteados, el de la división específicamente.

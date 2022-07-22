@@ -1,0 +1,7 @@
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\bin\Debug\Sesión2 IP PC.exe.config
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\bin\Debug\Sesión2 IP PC.exe
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\bin\Debug\Sesión2 IP PC.pdb
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\obj\Debug\Sesión2 IP PC.csprojResolveAssemblyReference.cache
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\obj\Debug\Sesión2 IP PC.csproj.CoreCompileInputs.cache
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\obj\Debug\Sesión2 IP PC.exe
+C:\Users\rolda\source\repos\Sesión2 IP PC\Sesión2 IP PC\obj\Debug\Sesión2 IP PC.pdb
